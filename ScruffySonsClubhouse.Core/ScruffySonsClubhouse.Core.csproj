@@ -9,4 +9,8 @@
     <PackageReference Include="NLog.Web.AspNetCore" Version="4.9.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ScruffySonsClubhouse.SharedKernel\ScruffySonsClubhouse.SharedKernel.csproj" />
+  </ItemGroup>
+
 </Project>
