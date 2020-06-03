@@ -13,4 +13,8 @@
     <ProjectReference Include="..\ScruffySonsClubhouse.SharedKernel\ScruffySonsClubhouse.SharedKernel.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Entities\Configuration\" />
+  </ItemGroup>
+
 </Project>
