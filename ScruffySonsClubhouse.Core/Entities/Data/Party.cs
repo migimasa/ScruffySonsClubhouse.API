@@ -5,9 +5,7 @@ namespace ScruffySonsClubhouse.Core.Entities.Data
 {
     public class Party : BaseEntity
     {
-        public string PartyName { get; set; }
-        public int MaxNumberOfPlayers { get; set; }
-        public Gamemaster Gamemaster { get; set; }
+        public string Name { get; set; }
         public List<Character> Characters { get; set; }
     }
 }
