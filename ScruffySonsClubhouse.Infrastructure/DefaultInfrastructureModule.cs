@@ -6,8 +6,8 @@ using Autofac;
 using MediatR;
 using MediatR.Pipeline;
 using Microsoft.AspNetCore.Components;
+using ScruffySonsClubhouse.Core;
 using ScruffySonsClubhouse.Infrastructure.Data;
-using ScruffySonsClubhouse.Infrastructure.DomainEvents;
 using ScruffySonsClubhouse.SharedKernel.Interfaces;
 using Module = Autofac.Module;
 

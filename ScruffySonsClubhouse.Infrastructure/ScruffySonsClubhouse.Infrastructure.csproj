@@ -23,6 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ScruffySonsClubhouse.Core\ScruffySonsClubhouse.Core.csproj" />
     <ProjectReference Include="..\ScruffySonsClubhouse.SharedKernel\ScruffySonsClubhouse.SharedKernel.csproj" />
   </ItemGroup>
 
